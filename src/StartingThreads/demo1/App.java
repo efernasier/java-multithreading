@@ -1,4 +1,4 @@
-package demo1;
+package StartingThreads.demo1;
 
 // One way to implement multi threading is extends from Thread class.
 // It requires to do an override of "run" method.
