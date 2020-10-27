@@ -1,4 +1,4 @@
-package StartingThreads.demo2;
+package startingthreads.demo2;
 
 // Another way to using threads is implementing "Runnable" interface and,
 // do an override of "run" method.

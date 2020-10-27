@@ -1,4 +1,4 @@
-package StartingThreads.demo3;
+package startingthreads.demo3;
 
 // If you don't want create a new classes.
 // You can create a new Runnable instance and override the run method as constructor.
